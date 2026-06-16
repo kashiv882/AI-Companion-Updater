@@ -1,47 +1,47 @@
 {
-  "version": "0.1.9",
+  "version": "0.2.0",
   "notes": "Download the installer for your platform below.",
-  "pub_date": "2026-06-12T12:32:38.445Z",
+  "pub_date": "2026-06-16T14:02:14.004Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk96emRpWVB5U09WTkorOEVJc3d6L0lpaDhHUDB2V3hUZndvNWUwWnhHRUNMWTRhajBQN1JCMjdxVEZGcGtrRmRzOEpoY0NweGJwL2ZZZXNNaVZ2THdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY2OTk1CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKeklHVFhSS2JrMDZrZUtsb0p6VEpNaEllV0F0aFUxckVVWi9aOUZCanFxWno0YkEwQTlRYk5KNmpCYWYwVnZhcGJLYm56d0srVDJBbTEyMUV2Y0xCQUE9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkVzcHNjQ0VYNVRJZ1ZBcjc5T0pLSEJVY3RiM3psS3Zrd1Q5UUxrV2k3YzZDVXMyUTcrSWlIODRId2tiQkhNNCtYbFAyT21LNW54TE9DNEZnZy90UUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE3OTY1CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKZGR2SEtMYk5mbTR2Y2tOOVcvRTBXNDZ3Z0Q4LzZ0UFJKamg1eTd6NXg5YStYM3V0eFA3OVV6YldWR2hodkFwdHZuWWl2eFdqUnYzZ2t1azhXWEdZRHc9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk96emRpWVB5U09WTkorOEVJc3d6L0lpaDhHUDB2V3hUZndvNWUwWnhHRUNMWTRhajBQN1JCMjdxVEZGcGtrRmRzOEpoY0NweGJwL2ZZZXNNaVZ2THdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY2OTk1CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKeklHVFhSS2JrMDZrZUtsb0p6VEpNaEllV0F0aFUxckVVWi9aOUZCanFxWno0YkEwQTlRYk5KNmpCYWYwVnZhcGJLYm56d0srVDJBbTEyMUV2Y0xCQUE9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkVzcHNjQ0VYNVRJZ1ZBcjc5T0pLSEJVY3RiM3psS3Zrd1Q5UUxrV2k3YzZDVXMyUTcrSWlIODRId2tiQkhNNCtYbFAyT21LNW54TE9DNEZnZy90UUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE3OTY1CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKZGR2SEtMYk5mbTR2Y2tOOVcvRTBXNDZ3Z0Q4LzZ0UFJKamg1eTd6NXg5YStYM3V0eFA3OVV6YldWR2hodkFwdHZuWWl2eFdqUnYzZ2t1azhXWEdZRHc9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkgvQ25Vc09uNTcwK0lRRWhDM010RXR2MG9lN1M5NS9RYkNuUE9SZ05ZK1BZNFFXWEVwVHhzZ3U1eXN4UUw4UWZkakQreWFaOXZvSGFWWlZOQ3JURUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MDQ5CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKanVVTTFKcUI0alV3YTNTZmc4dHdmZUxsaXljUE5tZkNmd1o1WTZpNHFiQlNNaTR5VkhueWI2WEVNZFlDVXlDM1ZmN3NqRVFhRjl6SHp3RmFTR1RRRGc9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdklKalBrS2lMa0Y3Tlc0WVhZU3VZZkhlcEpnWkE0U3pkMjg4UEpYVnFJVXViaU5HaUJSbzg2aGlFdy9IVUNCRk9VUytYYzNyb3NIbFV4ZFRuajR2c2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4MDk1CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKckV4TGVzZ1FYbkVhSXhYSGNpUitvZjlCcnhyZ3REU3UyQTg2RWJnVTZMZ0t1a05FMzluT2UrRFR1M3BZTWdicFNVNWRTTzBBUWJaclFYQ0MzaHp1Qmc9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkgvQ25Vc09uNTcwK0lRRWhDM010RXR2MG9lN1M5NS9RYkNuUE9SZ05ZK1BZNFFXWEVwVHhzZ3U1eXN4UUw4UWZkakQreWFaOXZvSGFWWlZOQ3JURUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MDQ5CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKanVVTTFKcUI0alV3YTNTZmc4dHdmZUxsaXljUE5tZkNmd1o1WTZpNHFiQlNNaTR5VkhueWI2WEVNZFlDVXlDM1ZmN3NqRVFhRjl6SHp3RmFTR1RRRGc9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdklKalBrS2lMa0Y3Tlc0WVhZU3VZZkhlcEpnWkE0U3pkMjg4UEpYVnFJVXViaU5HaUJSbzg2aGlFdy9IVUNCRk9VUytYYzNyb3NIbFV4ZFRuajR2c2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4MDk1CWZpbGU6QUkgQ29tcGFuaW9uLmFwcC50YXIuZ3oKckV4TGVzZ1FYbkVhSXhYSGNpUitvZjlCcnhyZ3REU3UyQTg2RWJnVTZMZ0t1a05FMzluT2UrRFR1M3BZTWdicFNVNWRTTzBBUWJaclFYQ0MzaHp1Qmc9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdktVd1krVmpBNjZHNDErQ0hqNjl0MDZnVGxvcCtUeW1waDBaMnBWVlB3Q0NEUm9ZbUhxVUQ2dXdadlc0cGlLbUlibFlZelNYMm1JcU1XbzFRVlhKdlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MjI2CWZpbGU6QUkgQ29tcGFuaW9uXzAuMS45X2FtZDY0LmRlYgpRZ3c5Um85d1pjS0UwMHdVUzFlaENoM1U3K3NpOWRkaU1UaVVvUk0wcU55V01Zb1N0Y0FFM2JCc2taZ2FKNVpSL3JkcUd6azYweVppKzc4NThZampDQT09Cg==",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_0.1.9_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdktobFBaelh1Q1ZrVCtCc2ZyOU9WMkZoVUZYaHFVdnZVTnFLY0NGK3lha2ZreU1id0d2NnBEN0pEQUI5d2FzaFJ4TnV5c3puV3pGOXFKNFlZaC8vclFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4MjQ2CWZpbGU6QUkgQ29tcGFuaW9uXzAuMi4wX2FtZDY0LmRlYgpiOVhtdStTb25OeisxcHdFZ2QxWFlzTytwdDczeUlTRit3dDdDRkFoTEZzV01JcGp1QzBnQTM2MVZHUXJYd0hkNjBkaFVtQURsZDVHNTg1TWJORnpCQT09Cg==",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_0.2.0_amd64.deb"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdktVd1krVmpBNjZHNDErQ0hqNjl0MDZnVGxvcCtUeW1waDBaMnBWVlB3Q0NEUm9ZbUhxVUQ2dXdadlc0cGlLbUlibFlZelNYMm1JcU1XbzFRVlhKdlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MjI2CWZpbGU6QUkgQ29tcGFuaW9uXzAuMS45X2FtZDY0LmRlYgpRZ3c5Um85d1pjS0UwMHdVUzFlaENoM1U3K3NpOWRkaU1UaVVvUk0wcU55V01Zb1N0Y0FFM2JCc2taZ2FKNVpSL3JkcUd6azYweVppKzc4NThZampDQT09Cg==",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_0.1.9_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdktobFBaelh1Q1ZrVCtCc2ZyOU9WMkZoVUZYaHFVdnZVTnFLY0NGK3lha2ZreU1id0d2NnBEN0pEQUI5d2FzaFJ4TnV5c3puV3pGOXFKNFlZaC8vclFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4MjQ2CWZpbGU6QUkgQ29tcGFuaW9uXzAuMi4wX2FtZDY0LmRlYgpiOVhtdStTb25OeisxcHdFZ2QxWFlzTytwdDczeUlTRit3dDdDRkFoTEZzV01JcGp1QzBnQTM2MVZHUXJYd0hkNjBkaFVtQURsZDVHNTg1TWJORnpCQT09Cg==",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_0.2.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk8waVFqQ05MZUN1M3BBb3U5U3ZNamx4dFBJcFFkNVhLaFVTdWJxMUczOFpSVGVsT1VaeUZyelI5MXBXQ3JEbnZLZG5VdEZTSWplNWNXcGNnY3ovU3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MjI2CWZpbGU6QUkgQ29tcGFuaW9uLTAuMS45LTEueDg2XzY0LnJwbQozZEM0TlZvM1NFQjMrRHhBQWRMckFSbEwrVzBCeUVBV2ZKT3ZxL1FQMGtSZi8zREtSN253cTZXc0NycmdFUm5TQ2xqRkhrSExVWlFURFFqK3gvZ3FEZz09Cg==",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion-0.1.9-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkI2NTZPbGpWaUJ6M3RGMVR0YUoxdUtaOFE2VEgwZlRyNFRFOGFwNWRqVnFFRGE2Ym13SjloL1lOOEZLVjFGNCs5OFgvczU1RGVDRlhMcTQ2dkVNaXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4MjQ2CWZpbGU6QUkgQ29tcGFuaW9uLTAuMi4wLTEueDg2XzY0LnJwbQpFYk1hYzNoaWpVMDFabkMxd0RKOWdRUTM5OFBMNG9HYTltODZyVWs1NExFSlh3MFp6ZGlOaWFSZGhOM0kvUVQ4ZEhEaGhIcDN3UlJ5OEd0VklmdytCZz09Cg==",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion-0.2.0-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk5HbGlrVEV0ZVM3elBFOWhCVVhpckZLMU9XZFNrVEp0S1JZcHMrYUNraHNkdWVkRDYybWw1VWtlWnpCdTFVRDVjZlJyYWZwdE8zVmFkZ0pDNCtRR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3NTU1CWZpbGU6QUkgQ29tcGFuaW9uXzAuMS45X3g2NC1zZXR1cC5leGUKMFMycUtlQy80Z2hPQVhld1JGdG54eVhjb25MQlhkR3FybmVzMmFvZWxJTDh0Z1p6M1BaQ1lKa3NlUXBXWm5aUlF5VUR3eXgxSWxWODFoRE5Dd1k2Qnc9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk41azNnYStLckpwaFJ5ZWplQXplclI1UnVhbGRKZjJyQ0YwR2hWTjF1bk9xQjF3UEdOR0hsdDVJL2FqcndjZXpEbGh0S0luQzFPbkZNRGYxdDNWSmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4NTIzCWZpbGU6QUkgQ29tcGFuaW9uXzAuMi4wX3g2NC1zZXR1cC5leGUKMzhOeCtUUGN1cG16ZGVVUnJqbEExRFNGS0t0c3NVUG45ekFYTWtZS1phVm14ZkYyYkNrOW85TkdTYU8vMGsrTzNKdDQ1bncxN2NHVVdXMWxPM2Y2Q0E9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_0.2.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk5HbGlrVEV0ZVM3elBFOWhCVVhpckZLMU9XZFNrVEp0S1JZcHMrYUNraHNkdWVkRDYybWw1VWtlWnpCdTFVRDVjZlJyYWZwdE8zVmFkZ0pDNCtRR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3NTU1CWZpbGU6QUkgQ29tcGFuaW9uXzAuMS45X3g2NC1zZXR1cC5leGUKMFMycUtlQy80Z2hPQVhld1JGdG54eVhjb25MQlhkR3FybmVzMmFvZWxJTDh0Z1p6M1BaQ1lKa3NlUXBXWm5aUlF5VUR3eXgxSWxWODFoRE5Dd1k2Qnc9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk41azNnYStLckpwaFJ5ZWplQXplclI1UnVhbGRKZjJyQ0YwR2hWTjF1bk9xQjF3UEdOR0hsdDVJL2FqcndjZXpEbGh0S0luQzFPbkZNRGYxdDNWSmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4NTIzCWZpbGU6QUkgQ29tcGFuaW9uXzAuMi4wX3g2NC1zZXR1cC5leGUKMzhOeCtUUGN1cG16ZGVVUnJqbEExRFNGS0t0c3NVUG45ekFYTWtZS1phVm14ZkYyYkNrOW85TkdTYU8vMGsrTzNKdDQ1bncxN2NHVVdXMWxPM2Y2Q0E9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_0.2.0_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk5HbGlrVEV0ZVM3elBFOWhCVVhpckZLMU9XZFNrVEp0S1JZcHMrYUNraHNkdWVkRDYybWw1VWtlWnpCdTFVRDVjZlJyYWZwdE8zVmFkZ0pDNCtRR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3NTU1CWZpbGU6QUkgQ29tcGFuaW9uXzAuMS45X3g2NC1zZXR1cC5leGUKMFMycUtlQy80Z2hPQVhld1JGdG54eVhjb25MQlhkR3FybmVzMmFvZWxJTDh0Z1p6M1BaQ1lKa3NlUXBXWm5aUlF5VUR3eXgxSWxWODFoRE5Dd1k2Qnc9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.1.9/AI.Companion_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk41azNnYStLckpwaFJ5ZWplQXplclI1UnVhbGRKZjJyQ0YwR2hWTjF1bk9xQjF3UEdOR0hsdDVJL2FqcndjZXpEbGh0S0luQzFPbkZNRGYxdDNWSmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4NTIzCWZpbGU6QUkgQ29tcGFuaW9uXzAuMi4wX3g2NC1zZXR1cC5leGUKMzhOeCtUUGN1cG16ZGVVUnJqbEExRFNGS0t0c3NVUG45ekFYTWtZS1phVm14ZkYyYkNrOW85TkdTYU8vMGsrTzNKdDQ1bncxN2NHVVdXMWxPM2Y2Q0E9PQo=",
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.0/AI.Companion_0.2.0_x64-setup.exe"
     }
   }
 }
