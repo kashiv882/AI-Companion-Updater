@@ -5,11 +5,11 @@
   "platforms": {
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdkw1OE82MU8veDRzRlZ5YWRsei9yeURiZGdTZzZqNGt1Y0hiSUFka1VoWHhid2tJUnlWblFVT2M2NFdRR3ovSm5hYnFRZFNjMlI1YWNPc3FsUlR4aWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzYzNzk2CWZpbGU6QUkgQ29tcGFuaW9uXzAuMi40X3g2NC1zZXR1cC5leGUKVnpxZktnbVhkU2d3Qnd4a0gzUytyZEljV1dqS2dIQzRQNmJBZ1hwSnEraG5kaWdEQWFxMTN0Y1EvNHk5Wnl5eUUwaEc4eDdpbUFadDhWc3Z6dU1LQlE9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.4/AI%20Companion_0.2.4_x64-setup.exe"
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.4/AI.Companion_0.2.4_x64-setup.exe"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdkw1OE82MU8veDRzRlZ5YWRsei9yeURiZGdTZzZqNGt1Y0hiSUFka1VoWHhid2tJUnlWblFVT2M2NFdRR3ovSm5hYnFRZFNjMlI1YWNPc3FsUlR4aWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzYzNzk2CWZpbGU6QUkgQ29tcGFuaW9uXzAuMi40X3g2NC1zZXR1cC5leGUKVnpxZktnbVhkU2d3Qnd4a0gzUytyZEljV1dqS2dIQzRQNmJBZ1hwSnEraG5kaWdEQWFxMTN0Y1EvNHk5Wnl5eUUwaEc4eDdpbUFadDhWc3Z6dU1LQlE9PQo=",
-      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.4/AI%20Companion_0.2.4_x64-setup.exe"
+      "url": "https://github.com/kashiv882/AI-Companion-Updater/releases/download/v0.2.4/AI.Companion_0.2.4_x64-setup.exe"
     }
   }
 }
